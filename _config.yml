@@ -3,6 +3,7 @@ url: "https://matejkovacc.github.io"
 baseurl: "/datascientist"
 
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 
 tracking_id: #
@@ -16,7 +17,7 @@ sass:
     sass_dir: _sass
 
 nav:
-
+ - name: "About"
    link: "/datascientist/"
  - name: "Resume"
    link: "Researcher.pdf"
