@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/Data scientist/"
+   link: "/datascientist/"
  - name: "Resume"
    link: "Researcher.pdf"
  - name: "Contact"
