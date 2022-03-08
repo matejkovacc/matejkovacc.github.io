@@ -1,0 +1,24 @@
+title: DATA SCIENTIST 
+url: "https://ankitsultana.com"
+baseurl: "/datascientist"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/matejkovacc"
+footer_text: "Page design by Matej Kovač"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/Data scientist/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
