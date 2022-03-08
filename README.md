@@ -27,7 +27,7 @@ you would build your site locally for testing. If you know how, open up an issue
 ```
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/datascientist/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
