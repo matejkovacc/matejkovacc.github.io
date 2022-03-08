@@ -1,9 +1,9 @@
 title: DATA SCIENTIST 
-url: "https://ankitsultana.com"
+url: "https://matejkovacc.github.io"
 baseurl: "/datascientist"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+
 
 tracking_id: #
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
 
-   link: "/Data scientist/"
+   link: "/datascientist/"
  - name: "Resume"
    link: "Researcher.pdf"
  - name: "Contact"
