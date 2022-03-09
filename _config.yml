@@ -1,6 +1,6 @@
 title: DATA SCIENTIST 
-url: "https://matejkovacc.github.io/"
-baseurl: "/datascientist"
+url: "https://matejkovacc.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
