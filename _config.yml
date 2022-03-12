@@ -20,3 +20,5 @@ nav:
    link: "Researcher.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Git"
+   link: "git.html"
